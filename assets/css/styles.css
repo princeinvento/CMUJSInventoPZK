@@ -1,0 +1,38 @@
+* {
+    font-family: 'Satoshi', 'Poppins';
+}
+.main-container {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.admin-main-container {
+    max-width: 2000px;
+    margin: 0 auto;
+}
+.login-logo {
+    width: 64px;
+    height: 64px;
+}
+.login-input {
+    border-color: rgb(132, 166, 45);
+}
+.login-btn {
+    background-color: #034824;
+}
+
+/* Admin CSS */
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.nav {
+    background-color: #2E3D35;
+}
+.nav-active {
+    background-color: rgba(255, 255, 255, 0.052);
+}
+.error {
+    color: red;
+    margin-top: 5px;
+}
